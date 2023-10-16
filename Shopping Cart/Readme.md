@@ -11,10 +11,6 @@ This is a simple shopping cart web application built using HTML, CSS, and JavaSc
 - **Validation:** Basic form validation to ensure required fields are filled out.
 - **Clear Cart:** Remove all items from the cart.
 
-## Demo
-
-You can check out a live demo of this Shopping Cart Web App [here](#).
-
 ## Installation
 
 1. Clone the repository to your local machine:
@@ -40,14 +36,6 @@ git clone https://github.com/yourusername/shopping-cart.git
 5. The cart total is automatically updated as you add or remove items.
 
 6. When you're ready to check out, click the "Close" button.
-
-7. Fill in the required user information and click "Place Order."
-
-8. If you try to place an order without filling in all the required fields, you will see validation error messages.
-
-9. After successfully placing an order, you will see a confirmation message.
-
-10. To start over, click the "Clear Cart" button.
 
 ## Customization
 
