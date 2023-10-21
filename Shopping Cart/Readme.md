@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-This project was inspired by various online shopping cart examples and tutorials. We would like to express our gratitude to the open-source community for sharing their knowledge and code.
+This project was inspired by various online shopping cart examples and tutorials. I would like to express my gratitude to the open-source community for sharing their knowledge and code.
 
 ## Contact
 
