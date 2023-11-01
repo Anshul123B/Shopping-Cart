@@ -33,7 +33,7 @@ git clone https://github.com/yourusername/shopping-cart.git
 
 4. To remove an item from the cart, click the "Remove" button next to it.
 
-5. The cart total is automatically updated as you add or remove items.
+5. The cart total is automatically updated as we add or remove items.
 
 6. When you're ready to check out, click the "Close" button.
 
